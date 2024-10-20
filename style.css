@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-image: url("../IMAGENS/background.jpg");
+}
+
+.header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1px;
+  margin: 20px 20px 20px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.navigation {
+  color: black;
+  text-align: center;
+}
+
+.navigation a {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  text-decoration: none;
+  margin-left: 10px;
+  color: black;
+  font-size: 20px;
+}
+
+.section1 {
+  color: white;
+  text-align: center;
+  padding: 25px;
+  padding-bottom: 35px;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20px;
+  font-size: 10px;
+  width: 90%;
+}
+
+.section2 {
+  color: white;
+  text-align: center;
+  padding: 25px;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20px;
+  font-size: 10px;
+  width: 95%;
+}
+
+.article {
+  color: white;
+  text-align: center;
+  padding: 25px;
+  padding-bottom: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.aside1 {
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20px;
+  font-size: 10px;
+}
+
+.footer {
+  color: white;
+  padding: 25px;
+  text-align: center;
+  font-size: 10px;
+}
+
+
+
+
+
+
